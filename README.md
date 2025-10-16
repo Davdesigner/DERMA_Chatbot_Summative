@@ -8,7 +8,7 @@ This chatbot is designed to provide reliable information about Skin diseases, sy
 
 ## Project Demo Video
 
-Link to Demo presentation: [Click Here.](https://youtu.be/fA5zi3bdkCs)
+Link to Demo presentation: [Click Here.](https://drive.google.com/file/d/1lwxbk9XkafplN7b_0ly8_tZU8MxzlwBw/view?usp=sharing)
 
 ## Features
 
