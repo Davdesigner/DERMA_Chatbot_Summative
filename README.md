@@ -30,7 +30,7 @@ Link to Demo presentation: [Click Here.](https://youtu.be/fA5zi3bdkCs)
 
 ```bash
 # Clone the repository
-git clone https://github.com/M-Pascal/Chatbot_Summative.git
+git clone https://github.com/Davdesigner/DERMA_Chatbot_Summative.git
 cd Notebook
 
 # Create and activate virtual environment
